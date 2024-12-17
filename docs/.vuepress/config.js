@@ -13,7 +13,7 @@ export default defineUserConfig({
     logo: 'https://vuejs.press/images/hero.png',
 
     navbar: [
-      '/',
+      '/blogdemo/',
       {
         text: 'Article',
         link: '/article/',
